@@ -21,7 +21,7 @@ In this project, I'll apply what I've learned on data modeling with Postgres and
 
 * 4 - time - timestamps of records in songplays broken down into specific units: start_time, hour, day, week, month, year, weekda
 
-![Schema](schema.PNG)
+![Schema](schema.png)
 
 * For the ETL pipeline, Python is used as it contains libraries such as pandas, that simplifies data manipulation. It also allows connection to Postgres Database.
 
